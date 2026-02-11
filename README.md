@@ -1,6 +1,6 @@
 # TC2004B - Análisis de Ciencia de Datos
 
-**Nombre:** [Emilio Urbina Arredondo] 
+**Nombre:** Emilio Urbina Arredondo 
 **Matrícula:** A01286642 
 **Semestre:** Febrero-Junio 2026
 
