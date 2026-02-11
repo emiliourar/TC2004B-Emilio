@@ -26,4 +26,4 @@ TC2004B-Emilio/
 ## Contacto
 
 - Email: [A01286642@tec.mx]
-- GitHub: [@emiliourar](https://github.com/emiliourar
+- GitHub: @emiliourar https://github.com/emiliourar
