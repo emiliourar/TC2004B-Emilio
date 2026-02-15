@@ -1,0 +1,23 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Emilio Urbina Arredondo
+Matrícula: A01286642
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Porque es el curso inicial y yo pienso que base para el estudio de mi carrera.
+
+¿Qué espero aprender?
+Espero aprender sobre el rol de mi carrera en la industria y cómo hacer las partes básicas de mi trabajo como científico de datos.
+
+Herramientas que ya conozco:
+- Git
+- Github
+- Python
+- Google Colab
+- R
+
+Herramientas nuevas para mí:
+- Scikit-learn
+- SQL
